@@ -1,0 +1,10 @@
+C:\Users\casper\Desktop\GitHub\BilgiYarismasi\BilgiYarismasi\bin\Debug\BilgiYarismasi.exe.config
+C:\Users\casper\Desktop\GitHub\BilgiYarismasi\BilgiYarismasi\bin\Debug\BilgiYarismasi.exe
+C:\Users\casper\Desktop\GitHub\BilgiYarismasi\BilgiYarismasi\bin\Debug\BilgiYarismasi.pdb
+C:\Users\casper\Desktop\GitHub\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.csproj.AssemblyReference.cache
+C:\Users\casper\Desktop\GitHub\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.Form1.resources
+C:\Users\casper\Desktop\GitHub\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.Properties.Resources.resources
+C:\Users\casper\Desktop\GitHub\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\GitHub\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\GitHub\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.exe
+C:\Users\casper\Desktop\GitHub\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.pdb
